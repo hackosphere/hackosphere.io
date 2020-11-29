@@ -1,2 +1,2 @@
 # hackosphere.io
-Selfhosted Control Panel
+Control Panel
