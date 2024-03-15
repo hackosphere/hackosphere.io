@@ -1,2 +1,2 @@
 # hackosphere.io
-crypto Internet bOt project under hackosphere.co
+Open Internet SBC GPIO DeCentral Hub Bot Project
